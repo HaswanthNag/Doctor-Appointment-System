@@ -8,5 +8,5 @@ Track appointment status (pending, confirmed, cancelled)
 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
-Backend: Node.js with Express.js
+Backend: Node.js
 Database: MySQL
